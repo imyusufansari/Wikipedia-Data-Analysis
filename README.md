@@ -44,3 +44,5 @@ Most of the code was done using HQL in a Hive GUI interface via Data Analysis st
 # Reference
 
 * https://github.com/samye760/Wikipedia-Big-Data-Analysis
+* https://wikitech.wikimedia.org/wiki/Analytics/Data_Lake/Traffic/Pageviews
+* https://meta.wikimedia.org/wiki/Research:Wikipedia_clickstream
