@@ -36,7 +36,7 @@ Most of the code was done using HQL in a Hive GUI interface via Data Analysis st
 3. What series of wikipedia articles, starting with Hotel California, keeps the largest fraction of its readers clicking on internal links.
 4. Find an example of an English wikipedia article that is relatively more popular in the Americas than elsewhere.There is no location data associated with the wikipedia            pageviews data, but there are timestamps. You'll need to make some assumptions about internet usage over the hours of the day.
 
-# Usag
+# Usage
 
 1. The HQL commands can be used on similar large datasets, specifically those found in Wikipedia dumps - https://dumps.wikimedia.org/
 2. This script was designed to answer all sorts of questions pertaining to big data.
