@@ -14,10 +14,11 @@ This analysis consists of using big data tools to answer questions about dataset
 8.  Python
 
 # Features
-1.  Process the downloaded data analyze the datasets.
+1.  Process the downloaded data & analyze the datasets.
 1.  Find, organize, and format pageviews on any given day.
 2.  Follow clickstreams to find relative frequencies of different pages.
 3.  Find the different way to analyze the most internal search link fraction of hotel california.
+4.  Determine relative popularity of page access methods.
 
 # Getting Started
 
