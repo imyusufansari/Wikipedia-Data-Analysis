@@ -10,7 +10,7 @@ This analysis consists of using big data tools to answer questions about dataset
 4.  MapReduce
 5.  Hive
 6.  Tez
-7.  Git
+7.  Git + Github
 8.  Python
 
 # Features
